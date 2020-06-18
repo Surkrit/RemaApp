@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Wheat bread",
+    "desc": "40 calories, high in fibers, part of a complete breakfast",
+    "unit": "grams",
+    "amount": "10.00",
+    "price": "14.99,-",
+    "category": "bread"
+  },
+  {
+    "id": 2,
+    "name": "Rye bread",
+    "desc": "70 calories, high in fibers, good for making sanwiches",
+    "unit": "grams",
+    "amount": "20",
+    "price": "26.99,-",
+    "category": "bread"
+  },
+  {
+    "id": 3,
+    "name": "Pita bread",
+    "desc": "200 calories, white",
+    "unit": "grams",
+    "amount": "5",
+    "price": "16.99,-",
+    "category": "bread"
+  }
+
+]

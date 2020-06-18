@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Wheat bread",
+    "desc": "40 calories, high in fibers, part of a complete breakfast",
+    "unit": "grams",
+    "amount": "10.00",
+    "price": "14.99,-",
+    "category": "bread"
+  },
+  {
+    "name": "Rye bread",
+    "desc": "70 calories, high in fibers, good for making sanwiches",
+    "unit": "grams",
+    "amount": "20",
+    "price": "26.99,-",
+    "category": "bread"
+  },
+  {
+    "name": "Pita bread",
+    "desc": "200 calories, white",
+    "unit": "grams",
+    "amount": "5",
+    "price": "16.99,-",
+    "category": "bread"
+  },
+  {
+    "name": "Whole Milk",
+    "desc": "150 calories, 3% fat",
+    "unit": "liters",
+    "amount": "1",
+    "price": "8.99,-",
+    "category": "drink"
+  },
+  {
+    "name": "Low fat Milk",
+    "desc": "75 calories, 0,1% fat",
+    "unit": "liters",
+    "amount": "1",
+    "price": "8.99,-",
+    "category": "drink"
+  },
+
+  {
+    "name": "Chicken Breast",
+    "desc": "250 calories, boneless skinless",
+    "unit": "grams",
+    "amount": "400",
+    "price": "37.5,-",
+    "category": "poultry"
+  },
+
+  {
+    "name": "Turkey Breast",
+    "desc": "200 calories",
+    "unit": "grams",
+    "amount": "350",
+    "price": "47.5,-",
+    "category": "poultry"
+  }
+
+]
